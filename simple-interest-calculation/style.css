@@ -1,0 +1,35 @@
+body {
+background-color: black; 
+font-family: arial; 
+font-color: white;
+}
+
+h1{
+color: grey; 
+font: verdana;
+}
+
+.maindiv {
+background-color:white; 
+font-color: black; 
+margin: auto;
+width: 450px; 
+padding: 20px;
+border-radius: 25px;
+}
+
+#innerdiv {
+margin-left: 40px;
+}
+
+form { display: table; border-spacing: 10px; margin-left: 30px;}
+p { display: table-row; }
+label { display: table-cell; }
+input { display: table-cell; }
+button { display: table-cell; }
+
+.bgyellow { background-color : yellow; }
+
+
+
+
